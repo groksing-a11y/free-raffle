@@ -3,9 +3,9 @@ FREE RAFFLE FOR BELOVED ELISA PAR SIDECO
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Free Raffle heretitle>
-</head>
+    Para kay Elisa
 <body>
-    <p>conragts, ikaw na ang pinaka magandang KADUGO sa buong alapaapre/p>
+    <p>congrats, ikaw na ang pinaka maganda sa buong mundo, pinaka magandang manlo>
+<b
 </body>
 </html>
